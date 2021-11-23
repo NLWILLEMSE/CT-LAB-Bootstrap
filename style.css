@@ -1,0 +1,41 @@
+#header
+{
+    height: 15vh;
+    background-color: purple
+}
+
+.foto
+{
+    height: 65vh;
+    background-color: green;
+}
+
+.info
+{
+    height: 65vh;
+    background-color: blue;
+}
+
+.project1
+{
+    height: 130vh;
+    background-color: yellow;
+}
+
+.project2
+{
+    height: 130vh;
+    background-color: orange
+}
+
+.project3
+{
+    height: 130vh;
+    background-color: red;
+}
+
+#footer
+{
+    height: 20vh;
+    background-color: pink;
+}
